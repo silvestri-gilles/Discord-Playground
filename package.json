@@ -1,0 +1,26 @@
+{
+  "name": "discord-playground",
+  "version": "0.0.1",
+  "description": "test application to learn discord API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestri-gilles/Discord-Playground.git"
+  },
+  "keywords": [
+    "discord",
+    "guide"
+  ],
+  "author": "Gilles Silvestri",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/silvestri-gilles/Discord-Playground/issues"
+  },
+  "homepage": "https://github.com/silvestri-gilles/Discord-Playground#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
